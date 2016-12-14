@@ -1,0 +1,1 @@
+/home/ni55an/emsdk_portable/emscripten/master/em++   --embed-file ../../../sounds -Wall -s FORCE_FILESYSTEM=1 -g   @CMakeFiles/openal_example.dir/objects1.rsp  -o openal_example.js 

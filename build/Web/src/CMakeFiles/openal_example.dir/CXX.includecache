@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/NetBeansProjects/cross-platform-audio/src/main.cc
+stdio.h
+-
+stdlib.h
+-
+AL/al.h
+-
+AL/alc.h
+-
+assert.h
+-
+stdint.h
+-
+unistd.h
+-
+emscripten.h
+-
+jni.h
+-
+android/asset_manager.h
+-
+android/asset_manager_jni.h
+-
+

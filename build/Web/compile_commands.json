@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/NetBeansProjects/cross-platform-audio/build/Web/src",
+  "command": "/home/ni55an/emsdk_portable/emscripten/master/em++     --embed-file ../../../sounds -Wall -s FORCE_FILESYSTEM=1 -g   -o CMakeFiles/openal_example.dir/main.cc.o -c /root/NetBeansProjects/cross-platform-audio/src/main.cc",
+  "file": "/root/NetBeansProjects/cross-platform-audio/src/main.cc"
+}
+]

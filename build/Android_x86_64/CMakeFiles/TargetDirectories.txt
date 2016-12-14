@@ -1,0 +1,5 @@
+/root/NetBeansProjects/cross-platform-audio/build/Android_x86_64/CMakeFiles/rebuild_cache.dir
+/root/NetBeansProjects/cross-platform-audio/build/Android_x86_64/CMakeFiles/edit_cache.dir
+/root/NetBeansProjects/cross-platform-audio/build/Android_x86_64/src/CMakeFiles/rebuild_cache.dir
+/root/NetBeansProjects/cross-platform-audio/build/Android_x86_64/src/CMakeFiles/edit_cache.dir
+/root/NetBeansProjects/cross-platform-audio/build/Android_x86_64/src/CMakeFiles/openal_example.dir

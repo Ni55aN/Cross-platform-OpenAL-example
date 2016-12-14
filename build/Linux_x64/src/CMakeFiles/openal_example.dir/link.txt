@@ -1,0 +1,1 @@
+/usr/bin/g++   -g   CMakeFiles/openal_example.dir/main.cc.o  -o openal_example -lopenal -lalut 

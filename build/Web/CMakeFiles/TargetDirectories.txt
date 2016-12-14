@@ -1,0 +1,5 @@
+/root/NetBeansProjects/cross-platform-audio/build/Web/CMakeFiles/rebuild_cache.dir
+/root/NetBeansProjects/cross-platform-audio/build/Web/CMakeFiles/edit_cache.dir
+/root/NetBeansProjects/cross-platform-audio/build/Web/src/CMakeFiles/rebuild_cache.dir
+/root/NetBeansProjects/cross-platform-audio/build/Web/src/CMakeFiles/edit_cache.dir
+/root/NetBeansProjects/cross-platform-audio/build/Web/src/CMakeFiles/openal_example.dir

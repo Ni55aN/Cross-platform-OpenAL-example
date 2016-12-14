@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/NetBeansProjects/cross-platform-audio/build/Linux_x64/src",
+  "command": "/usr/bin/g++     -g   -o CMakeFiles/openal_example.dir/main.cc.o -c /root/NetBeansProjects/cross-platform-audio/src/main.cc",
+  "file": "/root/NetBeansProjects/cross-platform-audio/src/main.cc"
+}
+]
